@@ -13,3 +13,4 @@ O layout e por sua conta, seja criativo. A arquitetura é por sua conta, seja es
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
 
 Não esqueça da otimização de velocidade da App nem da experiência do usuário.
+
